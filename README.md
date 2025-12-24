@@ -835,25 +835,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 🎨 **Bootstrap** - For beautiful, responsive UI components  
 🐍 **Python Community** - For the amazing ecosystem
 
-</div>
-
-## 📊 Project Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Syam-1133&repo=Amazon-Recommender-System&theme=radical" alt="Repo Stats"/>
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/Syam-1133/Amazon-Recommender-System?style=social" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/Syam-1133/Amazon-Recommender-System?style=social" alt="Forks"/>
-  <img src="https://img.shields.io/github/issues/Syam-1133/Amazon-Recommender-System?style=social" alt="Issues"/>
-  <img src="https://img.shields.io/github/watchers/Syam-1133/Amazon-Recommender-System?style=social" alt="Watchers"/>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Amazon-Recommender-System&color=blueviolet&style=flat-square&label=Repository+Views" alt="Views"/>
-
-</div>
-
 ---
 
 <div align="center">
