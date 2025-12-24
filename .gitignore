@@ -1,0 +1,57 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+
+# Development files
+demo_*.py
+test_*.py
+show_*.py
+
+# AWS Elastic Beanstalk
+.elasticbeanstalk/
+*.zip
+
+# Data files
+data/raw/
+data/processed/
+*.csv
+*.json
+*.parquet
+
+# Logs
+logs/
+*.log
+
+# System files
+*.tmp
+*.temp
+*~
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+Thumbs.db
+
+# Documentation screenshots
+*.png
+*.jpg
+*.jpeg
+*.gif
+
+
+
+
+.elasticbeanstalk/app_versions/*.zip
+.elasticbeanstalk/app_versions/*.zip

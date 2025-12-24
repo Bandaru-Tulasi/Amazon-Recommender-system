@@ -1,0 +1,16 @@
+# Essential packages for production deployment
+# Web Framework
+flask
+flask-cors
+gunicorn
+
+# Core Data Processing
+pandas
+numpy
+
+# Basic Machine Learning
+scikit-learn
+
+# Basic utilities
+requests
+python-dotenv
