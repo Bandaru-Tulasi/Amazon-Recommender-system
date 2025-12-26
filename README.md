@@ -789,6 +789,21 @@ We welcome contributions from the community! 🎉
 
 </div>
 
+## 📸 Project Screenshots
+
+<div align="center">  
+  
+This repository includes screenshots demonstrating:
+
+- Successful local execution of the Amazon Recommender System
+- Flask web application running locally
+- GitHub Actions CI/CD pipeline configuration
+- AWS Elastic Beanstalk application and environment setup (Docker-based)
+
+These screenshots are provided to showcase the end-to-end development, execution, and deployment readiness of the project.
+
+</div>
+
 
 ## 📚 Academic References & Research
 
